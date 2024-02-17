@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-family: Monospace;
+}
+
+header {
+    background: rgb(238,174,202);
+    background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,151,233,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,151,233,1) 100%);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,151,233,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#9497e9",GradientType=1);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    font-family: Monospace; ;
+}
+.d-1{
+    text-decoration: none;
+}
+header a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: Monospace;
+}
+
+section {
+    padding: 20px;
+    font-family: Monospace; 
+}
+
+section h2 {
+    margin-top: 0;
+    font-family: Monospace; 
+}
+
+footer {
+    background: rgb(238,174,202);
+    background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,151,233,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,151,233,1) 100%);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,151,233,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#9497e9",GradientType=1);
+    font-family: Monospace; 
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    font-weight: 600;
+    font-family: Monospace; 
+}
+body{
+    background: rgb(238,174,202);
+    background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,151,233,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,151,233,1) 100%);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,151,233,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#9497e9",GradientType=1);
+}
+.project{
+    height: auto;
+    display: flex;
+    align-content: center;
+}
